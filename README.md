@@ -1,5 +1,5 @@
 <!-- Side -->
-<a href="https://github.com/RafaelSimasS">![Side](https://github.com/RafaelSimasS/RafaelSimasS/tree/main/.GitHub/Side.png?raw=true)</a>
+<a href="https://github.com/RafaelSimasS">![Side](https://github.com/RafaelSimasS/RafaelSimasS/blob/main/.GitHub/Side.png?raw=true)</a>
 
 <hr>
 
@@ -65,7 +65,7 @@
 <a href="https://github.com/RafaelSimasS/">
 
 <!-- Side -->
-![Side](https://github.com/RafaelSimasS/RafaelSimasS/tree/main/.GitHub/SideComp.gif?raw=true)
+![Side](https://github.com/RafaelSimasS/RafaelSimasS/blob/main/.GitHub/SideComp.gif?raw=true)
 
 </a>
 
