@@ -65,7 +65,7 @@
 <a href="https://github.com/RafaelSimasS/">
 
 <!-- Side -->
-![Side](https://raw.githubusercontent.com/RafaelSimasS/RafaelSimasS/main/.GitHub/SideComp.gif)
+![Side](https://github.com/RafaelSimasS/RafaelSimasS/blob/main/.GitHub/SideComp.gif)
 
 </a>
 
