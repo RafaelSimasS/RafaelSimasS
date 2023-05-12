@@ -1,17 +1,17 @@
 <!-- Side -->
-<a href="https://github.com/RafaelSimasS">![Side](https://github.com/RafaelSimasS/RafaelSimasS/blob/main/.GitHub/Side.png?raw=true)</a>
+<a href="https://github.com/RafaelSimasS">![Side](https://github.com/RafaelSimasS/RafaelSimasS/blob/main/.GitHub/SideJS.jpg?raw=true)</a>
 
 <hr>
 
 <!-- Resume -->
-<h3 align="center">🏆&nbsp;Welcome to my Profile&nbsp;🏆</h3>
+<h3 align="center">💬&nbsp;Welcome to my Profile&nbsp;💬</h3>
 
 <p align="center">Enthusiastic, working with software development since I was 16 years old.<br>Constantly seeking knowledge.</p>
 
 <hr>
 
 <!-- Studying About -->
-<h3 align="center">🏆&nbsp;What am i studying?&nbsp;🏆</h3>
+<h3 align="center">👨‍💻&nbsp;What am i studying?&nbsp;👨‍💻</h3>
 
 <p align="center">Machine learning modeling with <img src="https://img.shields.io/badge/Tensorflow-05112A?style=flat&logo=TENSORFLOW" align="center" /> and <img src="https://img.shields.io/badge/Pytorch-05112A?style=flat&logo=PYTORCH" align="center" />.&nbsp;
 </p>
@@ -39,6 +39,13 @@
 <img src="https://img.shields.io/badge/Bash-05112A.svg?style=flat&logo=gnu-BASH" />&nbsp;
 <img src="https://img.shields.io/badge/Linux-05112A.svg?style=flat&logo=LINUX" />&nbsp;
 
+<!-- Git Stats -->
+<hr>
+<h3 align="center">&nbsp;🛠Git Stats&nbsp;</h3>
+  <a href="https://github.com/RafaelSimasS">
+    <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSimasS&theme=tokyonight" alt="Rafael's github stats" />
+    <img align="center" style="height: 200px"  src="https://github-readme-stats.vercel.app/api?username=RafaelSimasS&show_icons=true&theme=tokyonight&line_height=20" alt="Rafael's github stats"/>
+  </a>
 <hr>
 
 <!-- GitHub Trophies -->
@@ -49,7 +56,7 @@
 <hr>
 
 <!-- Contacts -->
-<h3 align="center">🏆&nbsp;Contacts&nbsp;🏆</h3>
+<h3 align="center">📱&nbsp;Contacts&nbsp;📱</h3>
 
 <p align="center"><a href="https://www.linkedin.com/in/rafaeldessimas/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" width="40" /></a><a href="https://t.me/RafaelSimasS" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="40" /></a><a href="https://api.whatsapp.com/send/?phone=5598999012274&app_absent=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-whatsapp-social-media-justicon-flat-justicon.png" width="40" /></a>
