@@ -15,14 +15,13 @@
 
 <p align="center">Machine learning modeling with <img src="https://img.shields.io/badge/Tensorflow-05112A?style=flat&logo=TENSORFLOW" align="center" /> and <img src="https://img.shields.io/badge/Pytorch-05112A?style=flat&logo=PYTORCH" align="center" />.&nbsp;
 </p>
-
 <p align="center">Database integration with <img src="https://img.shields.io/badge/MongoDB-05112A?style=flat&logo=MONGODB" align="center" /></p>
 
 <hr>
 
 <!-- Overview Technologies -->
 <h3 align="center">🏆&nbsp;Overview Technologies&nbsp;🏆</h3>
-
+<div align="center">
 <img src="https://img.shields.io/badge/HTML-05112A?style=flat&logo=HTML5" />&nbsp;
 <img src="https://img.shields.io/badge/CSS-05112A?style=flat&logo=CSS3" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-05112A?style=flat&logo=JAVASCRIPT" />&nbsp;
@@ -38,15 +37,20 @@
 <img src="https://img.shields.io/badge/Git-05112A?style=flat&logo=GIT" />&nbsp;
 <img src="https://img.shields.io/badge/Bash-05112A.svg?style=flat&logo=gnu-BASH" />&nbsp;
 <img src="https://img.shields.io/badge/Linux-05112A.svg?style=flat&logo=LINUX" />&nbsp;
-
+<img src="https://img.shields.io/badge/NextJS-05112A?style=flat&logo=nextdotjs" />&nbsp;
+  
+</div>
 <!-- Git Stats -->
 <hr>
-<h3 align="center">&nbsp;🛠Git Stats&nbsp;</h3>
-  <a href="https://github.com/RafaelSimasS">
-    <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSimasS&theme=tokyonight" alt="Rafael's github stats" />
-    <img align="center" style="height: 200px"  src="https://github-readme-stats.vercel.app/api?username=RafaelSimasS&show_icons=true&theme=tokyonight&line_height=20" alt="Rafael's github stats"/>
+<h3 align="center">🛠&nbsp;Git Stats&nbsp;🛠</h3>
+  <a href="https://github.com/RafaelSimasS" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSimasS&theme=tokyonight" alt="Rafael's github stats" />
+    <img align="right" style="height: 200px"  src="https://github-readme-stats.vercel.app/api?username=RafaelSimasS&show_icons=true&theme=tokyonight&line_height=20" alt="Rafael's github stats"/>
   </a>
+<br>
+<br>
 <hr>
+    
 
 <!-- GitHub Trophies -->
 <h3 align="center">🏆&nbsp;GitHub Trophies&nbsp;🏆</h3>
