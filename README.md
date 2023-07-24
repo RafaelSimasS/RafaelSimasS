@@ -43,9 +43,9 @@
 <!-- Git Stats -->
 <hr>
 <h3 align="center">🛠&nbsp;Git Stats&nbsp;🛠</h3>
-  <a href="https://github.com/RafaelSimasS" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSimasS&theme=tokyonight" alt="Rafael's github stats" />
-    <img align="right" style="height: 200px"  src="https://github-readme-stats.vercel.app/api?username=RafaelSimasS&show_icons=true&theme=tokyonight&line_height=20" alt="Rafael's github stats"/>
+  <a href="https://github.com/RafaelSimasS" align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSimasS&theme=tokyonight" alt="Rafael's github stats" />
+    <img align="center" style="height: 200px"  src="https://github-readme-stats.vercel.app/api?username=RafaelSimasS&show_icons=true&theme=tokyonight&line_height=20" alt="Rafael's github stats"/>
   </a>
 <br><br><br><br>
 
