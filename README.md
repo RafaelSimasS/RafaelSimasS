@@ -1,83 +1,56 @@
-<!-- Side -->
-<a href="https://github.com/RafaelSimasS">![Side](https://github.com/RafaelSimasS/RafaelSimasS/blob/main/.GitHub/SideJS.jpg?raw=true)</a>
+### Hi, I'm Rafael 🤙
 
-<hr>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldessimas/)](https://www.linkedin.com/in/rafaeldessimas/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldesousasimas@gmail.com)](mailto:rafaeldesousasimas@gmail.com)
+![Discord Badge](https://img.shields.io/badge/-simasrss-222222?style=flat-square&logo=Discord&logoColor=white)
 
-<!-- Resume -->
-<h3 align="center">💬&nbsp;Welcome to my Profile&nbsp;💬</h3>
+I'm a Full Stack developer who likes everything about coding and Artificial Intelligence. I currently work as an intern at <a href="https://www.bluecover.pt/">Bluecover</a>, creating solutions based on Computer Vision. 
 
-<p align="center">Enthusiastic, working with software development since I was 16 years old.<br>Constantly seeking knowledge.</p>
+Self-taught and enthusiastic, working with software development since I was 16 years old. Constantly seeking knowledge.
 
-<hr>
+<i>The important thing is not to stop questioning. Curiosity has its own reason for existing. - Albert Einstein</i>
 
-<!-- Studying About -->
-<h3 align="center">👨‍💻&nbsp;What am i studying?&nbsp;👨‍💻</h3>
+👨🏻‍💻 The stacks and technologies I work with daily:
 
-<p align="center">Machine learning modeling with <img src="https://img.shields.io/badge/Tensorflow-05112A?style=flat&logo=TENSORFLOW" align="center" /> and <img src="https://img.shields.io/badge/Pytorch-05112A?style=flat&logo=PYTORCH" align="center" />.&nbsp;
-</p>
-<p align="center">Database integration with <img src="https://img.shields.io/badge/MongoDB-05112A?style=flat&logo=MONGODB" align="center" /></p>
+<a href="https://www.php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="32px" height="32px"></a>
+<a href="https://laravel.com/" title="Laravel"><img src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="Laravel" width="25px" height="25px"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="25px" height="25px"></a>
+<a href="https://pytorch.org/" title="Pytorch"><img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" alt="Pytorch" width="25px" height="25px"></a>
+<a href="https://www.tensorflow.org/" title="Tensorflow"><img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" alt="Tensorflow" width="25px" height="25px"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="25px" height="25px"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
+<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="21px" height="21px"></a>
+<a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="21px" height="21px"></a>
+<a href="https://babeljs.io/" title="Babel"><img src="https://github.com/get-icon/geticon/raw/master/icons/babel.svg" alt="Babel" width="21px" height="21px"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
+<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px"></a>
+<a href="https://material-ui.com/" title="Material UI"><img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="21px" height="21px"></a>
+<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
+<a href="https://getcomposer.org/" title="Composer"><img src="https://github.com/get-icon/geticon/raw/master/icons/composer.svg" alt="Composer" width="21px" height="21px"></a>
+<a href="https://numpy.org/" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="21px" height="21px"></a>
+<a href="https://pandas.pydata.org/" title="Pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="Pandas" width="24px" height="24px"></a>
 
-<hr>
-
-<!-- Overview Technologies -->
-<h3 align="center">🏆&nbsp;Overview Technologies&nbsp;🏆</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/HTML-05112A?style=flat&logo=HTML5" />&nbsp;
-<img src="https://img.shields.io/badge/CSS-05112A?style=flat&logo=CSS3" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-05112A?style=flat&logo=JAVASCRIPT" />&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-05112A?style=flat&logo=TYPESCRIPT" />&nbsp;
-<img src="https://img.shields.io/badge/Node.js-05112A?style=flat&logo=NODE.JS" />&nbsp;
-<img src="https://img.shields.io/badge/React.js-05112A?style=flat&logo=REACT" />&nbsp;
-<img src="https://img.shields.io/badge/React%20Native-05112A?style=flat&logo=REACT" />&nbsp;
-<img src="https://img.shields.io/badge/EXPO-05112A?style=flat&logo=EXPO" />&nbsp;
-<img src="https://img.shields.io/badge/Firebase-05112A?style=flat&logo=FIREBASE" />&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-05112A?style=flat&logo=MONGODB" />&nbsp;
-<img src="https://img.shields.io/badge/Docker-05112A?style=flat&logo=DOCKER" />&nbsp;
-<img src="https://img.shields.io/badge/Google_Cloud_Platform-05112A.svg?style=flat&logo=GOOGLE-CLOUD" />&nbsp;
-<img src="https://img.shields.io/badge/Git-05112A?style=flat&logo=GIT" />&nbsp;
-<img src="https://img.shields.io/badge/Bash-05112A.svg?style=flat&logo=gnu-BASH" />&nbsp;
-<img src="https://img.shields.io/badge/Linux-05112A.svg?style=flat&logo=LINUX" />&nbsp;
-<img src="https://img.shields.io/badge/NextJS-05112A?style=flat&logo=nextdotjs" />&nbsp;
-  
+<br>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: space-between; width: 80%;">
+    <a href="https://github.com/RafaelSimasS">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSimasS&hide=css,html&langs_count=7&theme=github_dark&layout=compact"/>
+    </a>
+    <a>
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelSimasS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&layout=compact"/>
+    </a>
+  </div>
+  <div style="margin-top: 20px;">
+    <a href="https://wakatime.com/@raf4elss">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=raf4elss&show_icons=true&theme=github_dark&layout=compact&langs_count=7&custom_title=WakaTime%20%28Since%20Nov%202nd%2C%202023%29"/>
+    </a>
+  </div>
 </div>
-<!-- Git Stats -->
-<hr>
-<h3 align="center">🛠&nbsp;Git Stats&nbsp;🛠</h3>
-  <a href="https://github.com/RafaelSimasS" align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSimasS&theme=tokyonight" alt="Rafael's github stats" />
-    <img align="center" style="height: 200px"  src="https://github-readme-stats.vercel.app/api?username=RafaelSimasS&show_icons=true&theme=tokyonight&line_height=20" alt="Rafael's github stats"/>
-  </a>
-<br><br><br><br>
 
-<hr>
-    
 
-<!-- GitHub Trophies -->
-<h3 align="center">🏆&nbsp;GitHub Trophies&nbsp;🏆</h3>
-
-<p align="center"><a href="https://github.com/RafaelSimasS"><img height="150em" src="https://github-profile-trophy.vercel.app/?username=RafaelSimasS&margin-w=8&margin-h=8&theme=dracula" alt="RafaelSimasS"/></a></p>
-
-<hr>
-
-<!-- Contacts -->
-<h3 align="center">📱&nbsp;Contacts&nbsp;📱</h3>
-
-<p align="center"><a href="https://www.linkedin.com/in/rafaeldessimas/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" width="40" /></a><a href="https://t.me/RafaelSimasS" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="40" /></a><a href="https://api.whatsapp.com/send/?phone=5598999012274&app_absent=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-whatsapp-social-media-justicon-flat-justicon.png" width="40" /></a>
-</p>
-
-<hr>
-
-<!-- Las Updated -->
-<p align="center">Last Updated ON: 11/05/2023</p>
-
-<hr>
-
-<a href="https://github.com/RafaelSimasS/">
-
-<!-- Side -->
-![SideComp](https://github.com/RafaelSimasS/RafaelSimasS/blob/main/.GitHub/SideComp.gif)
-
-</a>
-
-<hr>
