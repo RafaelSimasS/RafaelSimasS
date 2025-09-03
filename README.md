@@ -4,9 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldesousasimas@gmail.com)](mailto:rafaeldesousasimas@gmail.com)
 ![Discord Badge](https://img.shields.io/badge/-simasrss-222222?style=flat-square&logo=Discord&logoColor=white)
 
-I'm a Full Stack developer who likes everything about coding and Artificial Intelligence. I currently work as an intern at <a href="https://www.bluecover.pt/">Bluecover</a>, creating solutions based on Computer Vision. 
+I'm a Full Stack developer currently working as an intern at <a href="https://www.bluecover.pt/">Bluecover</a>, building solutions based on Computer Vision.
 
-Self-taught and enthusiastic, working with software development since I was 16 years old. Constantly seeking knowledge.
+I'm pursuing a Bachelor's degree in Information Systems. I enjoy building software — especially projects that work with images and computer vision. I'm really into image-focused AI like GANs and generative models (Stable Diffusion — even though my GPU is pretty weak lol), and I like to watch some anime 🙃
+
+I started working with software at 16 and I’m always curious and learning new things.
 
 <i>The important thing is not to stop questioning. Curiosity has its own reason for existing. - Albert Einstein</i>
 
@@ -52,5 +54,3 @@ Self-taught and enthusiastic, working with software development since I was 16 y
     </a>
   </div>
 </div>
-
-
